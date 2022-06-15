@@ -144,7 +144,6 @@ dmypy.json
 
 # dependencies
 /node_modules
-#frontend//node_modules
 .package.swp
 
 # linters
